@@ -23,6 +23,10 @@
 
 ---
 
+## 🎯 Live Link: https://pix-find.vercel.app
+
+---
+
 ## 🎯 What is PixFind?
 
 PixFind is an **AI-powered visual search engine** that revolutionizes how users discover products. By leveraging OpenAI's CLIP model, it understands images at a deep level and finds visually similar products with remarkable accuracy.
