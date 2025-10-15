@@ -1,0 +1,22 @@
+# Node
+node_modules/
+.env
+build/
+dist/
+
+# Python
+venv/
+__pycache__/
+/clip_model/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# 
+images/
+testImg/
+uploads/
+.jpg
